@@ -4,10 +4,14 @@
 <!--                    PREMIUM ANIMATED HERO                   -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:0055FF&fontColor=00FFCC&fontAlign=50&fontAlignY=35&section=header&text=RISHI%20RAM&fontSize=70&desc=Computer%20Science%20Engineering%20Student&descAlign=50&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<!-- Animated Waving Background without the Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:0055FF&section=header&animation=fadeIn" width="100%"/>
 
+<br>
+
+<!-- Expanded Animated Typing SVG without Name -->
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&height=60&lines=Welcome+to+my+Digital+Universe+🚀;I'm+Building+the+Future,+One+Line+at+a+Time+💻;Transforming+Data+into+Actionable+Insights+📊;Code+•+Create+•+Innovate+⚡" alt="Animated heading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&height=80&lines=WELCOME+TO+MY+PAGE+👋;A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Animated heading"/>
 </a>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"/>
