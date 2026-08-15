@@ -7,9 +7,9 @@
 <!-- Animated Black & White Waving Background with Welcome Text -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:222222&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&section=header&text=WELCOME%20TO%20MY%20PAGE&fontSize=60&animation=fadeIn" width="100%"/>
 
-<!-- Expanded Animated Typing SVG (Monochrome Theme) -->
+<!-- Cleaned up Animated Typing SVG (Monochrome Theme) -->
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Animated heading"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Typing Animation"/>
 </a>
 
 <!-- Sleek White Divider -->
@@ -131,14 +131,14 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 ---
 
 <div align="center">
-  <h2>📊 <b>GITHUB METRICS</b></h2>
+  <h2>📊 <b>GITHUB METRICS & ANALYTICS</b></h2>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/RISHIRAM16">
   <img src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&count_private=false&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=donut&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" width="48%"/>
 </a>
 
 <br><br>
@@ -160,11 +160,7 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 <br><br>
 
 <p><b>My Contribution Snake</b></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/RISHIRAM16/RISHIRAM16/main/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="100%">
 
 </div>
 
