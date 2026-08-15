@@ -1,28 +1,51 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    PREMIUM ANIMATED HERO                   -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ============================================================ -->
+<!--                     PREMIUM HERO                             -->
+<!-- ============================================================ -->
 
-<!-- Animated Black & White Waving Background with Welcome Text -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:222222&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&section=header&text=WELCOME%20TO%20MY%20PAGE&fontSize=60&animation=fadeIn" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:101010,100:252525&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&section=header&text=RISHI%20RAM%20M&fontSize=68&fontWeight=800&animation=fadeIn"
+width="100%"
+/>
 
-<!-- Cleaned up Animated Typing SVG (Monochrome Theme) -->
-<a href="https://github.com/RISHIRAM16">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=50&lines=A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Typing Animation"/>
-</a>
+<br>
 
-<!-- Sleek White Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF&section=header" width="70%"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=24&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=COMPUTER+SCIENCE+ENGINEERING+STUDENT;PYTHON+%7C+JAVA+%7C+C%2B%2B+%7C+SQL;DATA+%26+ANALYTICS+ENTHUSIAST;DSA+%7C+BACKEND+%7C+PROBLEM+SOLVING;BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE"
+alt="Premium Typing Animation"
+/>
 
 <br><br>
 
-<p align="center">
-  <kbd>&nbsp;Software Development&nbsp;</kbd> • <kbd>&nbsp;Data Analytics&nbsp;</kbd> • <kbd>&nbsp;Backend Architecture&nbsp;</kbd>
-</p>
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF"
+width="65%"
+/>
 
-<img src="https://img.shields.io/badge/Status-OPEN_TO_LEARNING-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&border=FFFFFF"/>
-<img src="https://img.shields.io/badge/Action-BUILDING_PROJECTS-FFFFFF?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=000000"/>
+<br><br>
+
+<kbd> SOFTWARE DEVELOPMENT </kbd>
+&nbsp; • &nbsp;
+<kbd> DATA ANALYTICS </kbd>
+&nbsp; • &nbsp;
+<kbd> DSA </kbd>
+&nbsp; • &nbsp;
+<kbd> BACKEND </kbd>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_LEARNING-FFFFFF?style=for-the-badge&labelColor=080808&logo=github&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/BUILDING-PROJECTS-FFFFFF?style=for-the-badge&labelColor=080808&logo=rocket&logoColor=FFFFFF"/>
+
+<img src="https://img.shields.io/badge/FOCUS-DATA_%26_DSA-FFFFFF?style=for-the-badge&labelColor=080808"/>
+
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=RISHIRAM16&style=for-the-badge&color=333333&labelColor=000000&label=PROFILE+VIEWS"
+/>
 
 </div>
 
@@ -30,200 +53,556 @@
 
 ---
 
+<!-- ============================================================ -->
+<!--                       ABOUT ME                               -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <h2>💻 <b>ABOUT ME</b></h2>
+
+<h2>◈ ABOUT ME</h2>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=15&duration=3500&pause=1000&color=AAAAAA&center=true&vCenter=true&width=800&height=35&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE"
+/>
+
 </div>
 
-> **"Optimizing systems, analyzing data, and writing elegant code."** 
+> **"Optimizing systems, analyzing data, and writing elegant code."**
 
-I'm a **Computer Science Engineering student at Panimalar Engineering College**. I specialize in bridging the gap between raw data and scalable software solutions. My philosophy is simple: learn aggressively, build meaningful projects, and leave every codebase better than I found it.
+I'm a **Computer Science Engineering student at Panimalar Engineering College**, focused on building strong foundations in programming, data structures, analytics and software development.
+
+My approach is simple:
+
+**Learn → Build → Break → Fix → Improve**
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🎓 Education & Interests
-- 🏫 **Degree:** Computer Science Engineering
-- 📍 **Institution:** Panimalar Engineering College
-- 💡 **Interests:** Backend Systems, Analytics, Logic Building
+### 🎓 EDUCATION
+
+- 🏫 **Computer Science Engineering**
+- 📍 **Panimalar Engineering College**
+- 💻 Programming & Software Development
+- 🧠 Logic Building & Problem Solving
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎯 Current Focus
-- 🧠 **Learning:** Python, Java, C++, SQL, DSA
-- 🏗️ **Building:** High-impact utility algorithms
-- 📈 **Goal:** Mastering Data Structures & Analytics
+### 🎯 CURRENT FOCUS
+
+- 🐍 Python
+- ☕ Java
+- ⚡ C++
+- 🗄️ SQL
+- 🌳 Data Structures & Algorithms
+- 📊 Data Analytics
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=444444"
+width="40%"
+/>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>⚡ <b>TECH STACK & TOOLS</b></h2>
-</div>
+<!-- ============================================================ -->
+<!--                    CURRENTLY BUILDING                        -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<p><b>Languages & Core Technologies</b></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js&theme=dark&perline=10" />
-</a>
+<h2>⚡ CURRENTLY BUILDING</h2>
 
-<br><br>
-
-<p><b>Data & Analytics Arsenal</b></p>
-<img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&border=555555"/>
-<img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&border=555555"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&border=555555"/>
-<img src="https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&border=555555"/>
-<img src="https://img.shields.io/badge/LOOKER-000000?style=for-the-badge&logo=looker&logoColor=FFFFFF&border=555555"/>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
-</div>
-
----
-
-<div align="center">
-  <h2>🚀 <b>FEATURED WORK</b></h2>
-</div>
+<br>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Piezoelectric Tile</h3>
-      <p>An innovative working model developed for a college ideathon demonstrating how <b>mechanical pressure is converted into sustainable electrical energy</b>.</p>
-      <p><code>Energy Harvesting</code> <code>Electronics</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌳 Data Structures Core</h3>
-      <p>Deep-dive implementations and practice repositories focusing on fundamental data structures and algorithmic efficiency.</p>
-      <p><code>BST / AVL</code> <code>Stacks & Queues</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐍 Python Ecosystem</h3>
-      <p>Robust programs developed while mastering Python fundamentals, automated data processing, and visualization scripting.</p>
-      <p><code>Automation</code> <code>Data Viz</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Analytics Dashboards</h3>
-      <p>Transforming raw, unstructured data into meaningful, actionable insights using industry-standard analytics pipelines.</p>
-      <p><code>SQL</code> <code>Google Analytics</code></p>
-    </td>
-  </tr>
+
+<tr>
+
+<td width="33%" align="center">
+
+<h3>🧠 DSA</h3>
+
+Data Structures<br>
+Algorithms<br>
+Problem Solving
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>📊 ANALYTICS</h3>
+
+Python<br>
+SQL<br>
+Visualization
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>🚀 DEVELOPMENT</h3>
+
+Java<br>
+C++<br>
+Backend Systems
+
+</td>
+
+</tr>
+
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=850&height=40&lines=BUILDING+TODAY+FOR+A+BETTER+TOMORROW;EVERY+COMMIT+IS+A+STEP+FORWARD;CODE+IS+THE+TOOL.+CURIOSITY+IS+THE+ENGINE."
+/>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>📊 <b>GITHUB METRICS & ANALYTICS</b></h2>
-</div>
+<!-- ============================================================ -->
+<!--                     TECH STACK                               -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<a href="https://github.com/RISHIRAM16">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&count_private=false&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=donut&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" width="48%"/>
-</a>
+<h2>⚙️ TECH STACK</h2>
+
+<br>
+
+<p><b>LANGUAGES & CORE TECHNOLOGIES</b></p>
+
+<img
+src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql&theme=dark&perline=8"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=RISHIRAM16&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="97%"/>
+<p><b>DATA & ANALYTICS</b></p>
+
+<img src="https://img.shields.io/badge/PYTHON-080808?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SQL-080808?style=for-the-badge&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JUPYTER-080808?style=for-the-badge&logo=jupyter&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/EXCEL-080808?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ANALYTICS-080808?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF"/>
+
+<br><br>
+
+<p><b>TOOLS</b></p>
+
+<img src="https://img.shields.io/badge/GIT-080808?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_CODE-080808?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JUPYTER-080808?style=for-the-badge&logo=jupyter&logoColor=FFFFFF"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🏆 <b>ACHIEVEMENTS & ACTIVITY</b></h2>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=444444"
+width="40%"
+/>
+
 </div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     FEATURED WORK                            -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIRAM16&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%"/>
+<h2>🚀 FEATURED WORK</h2>
+
+<p>
+<i>Projects that represent my learning journey.</i>
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚡ PIEZOELECTRIC TILE</h3>
+
+A working energy-harvesting model developed during a college ideathon.
+
+Mechanical pressure is converted into electrical energy.
 
 <br><br>
 
-<p><b>My Contribution Snake</b></p>
-<img src="https://raw.githubusercontent.com/RISHIRAM16/RISHIRAM16/main/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" width="100%">
+<code>ENERGY HARVESTING</code>
+<code>ELECTRONICS</code>
 
-</div>
+</td>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
+<td width="50%" valign="top">
+
+<h3>🌳 DATA STRUCTURES CORE</h3>
+
+Implementations and practice focused on fundamental data structures and algorithmic efficiency.
+
+<br><br>
+
+<code>BST</code>
+<code>AVL</code>
+<code>STACKS</code>
+<code>QUEUES</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🐍 PYTHON ECOSYSTEM</h3>
+
+Python programs covering fundamentals, automation, data processing and visualization.
+
+<br><br>
+
+<code>PYTHON</code>
+<code>AUTOMATION</code>
+<code>DATA VIZ</code>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 DATA ANALYTICS</h3>
+
+Exploring the journey from raw datasets to meaningful insights using Python and SQL.
+
+<br><br>
+
+<code>SQL</code>
+<code>ANALYTICS</code>
+<code>DATA</code>
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>🗺️ <b>2026 ROADMAP</b></h2>
-</div>
+<!-- ============================================================ -->
+<!--                  ANIMATED ANALYTICS                          -->
+<!-- ============================================================ -->
 
 <div align="center">
-  
-```mermaid
-gantt
-    title Learning & Growth Trajectory 2026
-    dateFormat  YYYY-MM-DD
-    axisFormat  %b
-    
-    section Core Logic
-    Python & Java           :active, 2026-01-01, 2026-12-31
-    C++ & DSA               :active, 2026-01-01, 2026-12-31
-    
-    section Architecture
-    SQL & Data Analytics    :2026-03-01, 2026-09-01
-    Web Development         :2026-05-01, 2026-11-01
-    AI & Data Science       :2026-08-01, 2026-12-31
-```
-*(Rendered natively via GitHub Mermaid Engine)*
 
-</div>
+<h2>📊 DEVELOPER ANALYTICS</h2>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="100%"/>
-</div>
+<p>
+<i>Turning code, commits and contributions into measurable progress.</i>
+</p>
 
----
+<br>
 
-<div align="center">
-  <h2>📡 <b>LET'S CONNECT</b></h2>
-</div>
+<!-- Animated Donut -->
 
-<div align="center">
+<img
+src="https://quickchart.io/chart?width=850&height=430&c={type:'doughnut',data:{labels:['Python','Java','C++','C','Other'],datasets:[{data:[42,24,18,12,4],backgroundColor:['#ffffff','#aaaaaa','#777777','#444444','#222222'],borderColor:'#080808',borderWidth:4}]},options:{plugins:{title:{display:true,text:'CODING ANALYTICS',color:'#ffffff',font:{size:22}},legend:{labels:{color:'#ffffff',font:{size:14}}}},cutout:'70%'}}"
+width="90%"
+alt="Animated Analytics Donut"
+/>
+
+<br><br>
+
+<!-- GitHub Statistics -->
 
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&border=FFFFFF"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true&count_private=true"
+width="48%"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=donut&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=AAAAAA&langs_count=7"
+width="48%"
+/>
+
 </a>
+
+<br><br>
+
+<!-- Streak -->
+
+<img
+src="https://streak-stats.demolab.com?user=RISHIRAM16&hide_border=true&background=080808&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666"
+width="95%"
+/>
+
+<br><br>
+
+<!-- Activity Graph -->
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIRAM16&bg_color=080808&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                  CONTRIBUTION MATRIX                         -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>🐍 CONTRIBUTION MATRIX</h2>
+
+<p>
+<i>Every contribution tells part of the story.</i>
+</p>
+
+<br>
+
+<img
+src="https://raw.githubusercontent.com/RISHIRAM16/RISHIRAM16/main/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
+/>
+
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&height=2&color=333333"
+width="70%"
+/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                      ACHIEVEMENTS                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>🏆 ACHIEVEMENTS</h2>
+
+<br>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=RISHIRAM16&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+width="100%"
+/>
+
+<br><br>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"
+width="80%"
+/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       ROADMAP                                -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>🗺️ 2026 ROADMAP</h2>
+
+<p>
+<i>Building skills one milestone at a time.</i>
+</p>
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 01
+
+🧠
+
+**CORE**
+
+Python<br>
+Java<br>
+C++
+
+</td>
+
+<td align="center">
+
+### 02
+
+🌳
+
+**DSA**
+
+Arrays<br>
+Trees<br>
+Graphs
+
+</td>
+
+<td align="center">
+
+### 03
+
+📊
+
+**DATA**
+
+SQL<br>
+Analytics<br>
+Visualization
+
+</td>
+
+<td align="center">
+
+### 04
+
+🚀
+
+**BUILD**
+
+Projects<br>
+Backend<br>
+AI / Data
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=900&color=999999&center=true&vCenter=true&width=800&height=35&lines=2026%3A+BUILDING+THE+FOUNDATION;2026%3A+MASTERING+THE+FUNDAMENTALS;2026%3A+TURNING+KNOWLEDGE+INTO+PROJECTS"
+/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                     GITHUB ACTIVITY                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>📈 ACTIVITY PULSE</h2>
+
+<br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=RISHIRAM16&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=RISHI%20RAM%20%E2%80%94%20CODING%20ACTIVITY"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                    DEVELOPER PHILOSOPHY                      -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>◉ DEVELOPER PHILOSOPHY</h2>
+
+<br>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=45&lines=WRITE+LESS%2C+THINK+MORE.;MAKE+IT+WORK.+MAKE+IT+BETTER.;TURN+PROBLEMS+INTO+SYSTEMS.;TURN+DATA+INTO+DECISIONS.;NEVER+STOP+BUILDING."
+/>
+
+<br><br>
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                       CONNECT                                -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>📡 LET'S CONNECT</h2>
+
+<p>
+<i>Have an idea? Let's build it.</i>
+</p>
+
+<br>
+
+<a href="https://github.com/RISHIRAM16">
+<img
+src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=FFFFFF"
+/>
+</a>
+
 <a href="https://www.linkedin.com/in/rishiram1629">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&border=FFFFFF"/>
+<img
+src="https://img.shields.io/badge/LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"
+/>
 </a>
+
 <a href="mailto:rishiramm1629@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&border=FFFFFF"/>
+<img
+src="https://img.shields.io/badge/EMAIL-080808?style=for-the-badge&logo=gmail&logoColor=FFFFFF"
+/>
 </a>
 
 <br><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RISHIRAM16&style=for-the-badge&color=555555&labelColor=000000&label=PROFILE+VIEWS"/>
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=700&height=30&lines=THANKS+FOR+VISITING+MY+PROFILE;KEEP+CODING.+KEEP+BUILDING.;SEE+YOU+IN+THE+NEXT+COMMIT."
+/>
 
-<br><br>
+<br><br><br>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:222222&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:252525,50:111111,100:000000&section=footer"
+width="100%"
+/>
 
 </div>
