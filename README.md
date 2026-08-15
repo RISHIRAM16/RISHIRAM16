@@ -4,17 +4,16 @@
 <!--                    PREMIUM ANIMATED HERO                   -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<!-- Animated Waving Background without the Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:0055FF&section=header&animation=fadeIn" width="100%"/>
+<!-- Animated Black & White Waving Background with Welcome Text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:222222&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&section=header&text=WELCOME%20TO%20MY%20PAGE&fontSize=60&animation=fadeIn" width="100%"/>
 
-<br>
-
-<!-- Expanded Animated Typing SVG without Name -->
+<!-- Expanded Animated Typing SVG (Monochrome Theme) -->
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&height=80&lines=WELCOME+TO+MY+PAGE+👋;A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Animated heading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=A+PASSIONATE+CSE+STUDENT+🎓;BUILDING+THE+FUTURE,+ONE+LINE+AT+A+TIME+💻;TRANSFORMING+DATA+INTO+INSIGHTS+📊;CODE+•+CREATE+•+INNOVATE+⚡;LET'S+BUILD+SOMETHING+AMAZING+🚀" alt="Animated heading"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%"/>
+<!-- Sleek White Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=FFFFFF&section=header" width="70%"/>
 
 <br><br>
 
@@ -22,8 +21,8 @@
   <kbd>&nbsp;Software Development&nbsp;</kbd> • <kbd>&nbsp;Data Analytics&nbsp;</kbd> • <kbd>&nbsp;Backend Architecture&nbsp;</kbd>
 </p>
 
-<img src="https://img.shields.io/badge/Status-OPEN_TO_LEARNING-00FFCC?style=for-the-badge&logo=github&logoColor=000000&labelColor=0D1117&border=00FFCC"/>
-<img src="https://img.shields.io/badge/Action-BUILDING_PROJECTS-0055FF?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-OPEN_TO_LEARNING-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000&border=FFFFFF"/>
+<img src="https://img.shields.io/badge/Action-BUILDING_PROJECTS-FFFFFF?style=for-the-badge&logo=rocket&logoColor=000000&labelColor=000000"/>
 
 </div>
 
@@ -32,7 +31,7 @@
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> <b>ABOUT ME</b></h2>
+  <h2>💻 <b>ABOUT ME</b></h2>
 </div>
 
 > **"Optimizing systems, analyzing data, and writing elegant code."** 
@@ -43,7 +42,7 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Education & Interests
+### 🎓 Education & Interests
 - 🏫 **Degree:** Computer Science Engineering
 - 📍 **Institution:** Panimalar Engineering College
 - 💡 **Interests:** Backend Systems, Analytics, Logic Building
@@ -51,7 +50,7 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Bullseye.png" alt="Bullseye" width="25" height="25" /> Current Focus
+### 🎯 Current Focus
 - 🧠 **Learning:** Python, Java, C++, SQL, DSA
 - 🏗️ **Building:** High-impact utility algorithms
 - 📈 **Goal:** Mastering Data Structures & Analytics
@@ -61,13 +60,13 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="40%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> <b>TECH STACK & TOOLS</b></h2>
+  <h2>⚡ <b>TECH STACK & TOOLS</b></h2>
 </div>
 
 <div align="center">
@@ -80,22 +79,22 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 <br><br>
 
 <p><b>Data & Analytics Arsenal</b></p>
-<img src="https://img.shields.io/badge/EXCEL-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346&border=217346"/>
-<img src="https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626&border=F37626"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&border=4479A1"/>
-<img src="https://img.shields.io/badge/ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=E37400&border=E37400"/>
-<img src="https://img.shields.io/badge/LOOKER-0D1117?style=for-the-badge&logo=looker&logoColor=4285F4&border=4285F4"/>
+<img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF&border=555555"/>
+<img src="https://img.shields.io/badge/JUPYTER-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF&border=555555"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFFFFF&border=555555"/>
+<img src="https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF&border=555555"/>
+<img src="https://img.shields.io/badge/LOOKER-000000?style=for-the-badge&logo=looker&logoColor=FFFFFF&border=555555"/>
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="40%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> <b>FEATURED WORK</b></h2>
+  <h2>🚀 <b>FEATURED WORK</b></h2>
 </div>
 
 <table>
@@ -126,37 +125,37 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="40%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> <b>GITHUB METRICS</b></h2>
+  <h2>📊 <b>GITHUB METRICS</b></h2>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=8B949E&icon_color=0055FF&count_private=false&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=8B949E&langs_count=6" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHIRAM16&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&count_private=false&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIRAM16&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&langs_count=6" width="48%"/>
 </a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=RISHIRAM16&hide_border=true&background=0D1117&ring=0055FF&fire=00FFCC&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="97%"/>
+<img src="https://streak-stats.demolab.com?user=RISHIRAM16&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="97%"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" /> <b>ACHIEVEMENTS & ACTIVITY</b></h2>
+  <h2>🏆 <b>ACHIEVEMENTS & ACTIVITY</b></h2>
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIRAM16&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RISHIRAM16&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" width="100%"/>
 
 <br><br>
 
@@ -170,13 +169,13 @@ I'm a **Computer Science Engineering student at Panimalar Engineering College**.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="40%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="40%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Map.png" alt="Map" width="35" height="35" /> <b>2026 ROADMAP</b></h2>
+  <h2>🗺️ <b>2026 ROADMAP</b></h2>
 </div>
 
 <div align="center">
@@ -201,34 +200,34 @@ gantt
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=555555&section=header" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="35" height="35" /> <b>LET'S CONNECT</b></h2>
+  <h2>📡 <b>LET'S CONNECT</b></h2>
 </div>
 
 <div align="center">
 
 <a href="https://github.com/RISHIRAM16">
-  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FFCC&border=00FFCC"/>
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&border=FFFFFF"/>
 </a>
 <a href="https://www.linkedin.com/in/rishiram1629">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0055FF&border=0055FF"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&border=FFFFFF"/>
 </a>
 <a href="mailto:rishiramm1629@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&border=EA4335"/>
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&border=FFFFFF"/>
 </a>
 
 <br><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=RISHIRAM16&style=for-the-badge&color=0055FF&labelColor=0D1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=RISHIRAM16&style=for-the-badge&color=555555&labelColor=000000&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,100:0055FF&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,100:222222&section=footer" width="100%"/>
 
 </div>
